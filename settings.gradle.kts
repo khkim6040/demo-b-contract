@@ -24,7 +24,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "demo-b-template"
+rootProject.name = "demo-b-contract"
 
 include(
     "libs:domain",
